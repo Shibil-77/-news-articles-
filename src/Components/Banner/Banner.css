@@ -1,6 +1,6 @@
 .Banner{
     background-size: cover;
-    height: 500px;
+    height: 550px;
     color: white;
 }
 
@@ -37,7 +37,7 @@
   background-color:#e6e6e6;
 }
 
-.discription{
+.description{
   width: 45rem;
   line-height: 1.3;
   padding-top: 1rem;
